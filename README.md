@@ -10,6 +10,6 @@
 
 [Check out the website here](https://ishant2004.github.io/sorting-algo/)
 
-<img src="img/img1.png"> <br/>
-<img src="img/img2.png"> <br/>
-<img src="img/img3.png"> <br/>
+<img src="images/img1.png"> <br/>
+<img src="images/img2.png"> <br/>
+<img src="images/img3.png"> <br/>
